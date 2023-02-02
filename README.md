@@ -14,7 +14,8 @@ My name is Pierfilippo, <br>im an italian man wishing to persue his life in prog
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
-# 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ludgerr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ludgerr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludgerr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
