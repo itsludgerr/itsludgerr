@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itsludgerr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsludgerr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/17/d1/3b/17d13b23ee4ff13d4182d4cfdfac28dd.gif"  />
 
 ###
@@ -40,5 +47,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/itsludgerr/itsludgerr/output/snake.svg" alt="Snake animation" />
 
 ###
